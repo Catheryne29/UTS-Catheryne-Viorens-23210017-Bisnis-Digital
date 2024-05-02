@@ -1,0 +1,93 @@
+.navbar{
+    background-color: pink;
+    color: BLACK;
+    }
+
+.itbss{
+    display: flex;
+    color: rgb(199, 148, 157);
+justify-content: center;
+}
+
+
+
+.fotoitbss {
+    display: flex;
+    border-radius: 50px;
+    width: 400px;
+    height: 430px; 
+  margin: auto;
+  object-fit: cover;
+}
+
+.jurusan{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-style: italic;
+    text-decoration: underline;
+    display: flex;
+    justify-content: center;
+    margin-top: 3%;
+}
+
+.image-style-jurusan {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+.style-jurusan {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+.style-jurusan a{
+    color: pink;
+}
+.sti {
+    display: flex;
+    border-radius: auto;
+    width: 90%;
+    height: 80%;
+    align-self: center;
+    
+}
+
+.stiteks{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-style: bold;
+    display: flex;
+    font-size: xx-small;
+    justify-content: space-between;
+    margin-left: 3%;
+    margin-bottom: 5%;
+    text-align: center;
+}
+
+.bd {
+    display: flex;
+    border-radius: 50px;
+    width: 90%;
+    height: 80%;
+    align-self: center;
+}
+
+/* .bdteks{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-style: bold;
+    display: flex;
+    font-size: xx-small;
+    /* justify-content: center; */
+    /* margin-bottom: 5%; */
+
+
+.kwu {
+    display: flex;
+    border-radius: 50px;
+    width: 90%;
+    height: 80%;
+    align-self: center;
+    
+} 
+
+h5 {
+    text-align: center;
+}

@@ -1,0 +1,35 @@
+.navbar{
+background-color: pink;
+color: BLACK;
+}
+
+
+.banner {
+    background:url("assets/banner.png")
+    no-repeat center center;
+    background-size: cover;
+    padding-top:20%;
+    padding-bottom: 20%;
+    color: white;
+}
+
+.display-1{
+    font-style: bold;
+    font-style: italic ;
+    color:black;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+p{
+    line-height: 16px;
+}
+}
+.display-6 {
+    color : rgb(38, 66, 77);
+	font-family: 'Times New Roman', Times, serif;
+	font-style: normal;
+    margin: 60px;
+
+}
+
+.btn-lg{
+background-color: black;
+}

@@ -1,0 +1,151 @@
+.navbar{
+    background-color: pink;
+    color: BLACK;
+    }
+
+.about{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-style: italic;
+    display: flex;
+    justify-content: center;
+    margin-top: 3%;
+    color: pink;
+}
+
+.about h1{
+    display: flex;
+    text-align: center;
+}
+.datadiri{
+    font-size: xx-large;
+    text-align:left;
+    color : rgb(38, 66, 77);
+	font-family: 'Times New Roman', Times, serif;
+	font-style: normal;
+    margin-top: 3%;
+    margin-left: 3%;
+    display: flex;
+    width: 100%;
+}
+
+.data{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    text-align: center;
+    margin-right: 0%;
+    font-size: 20px;
+    width: 25%;
+}
+
+.umur{
+    display: flex;
+    justify-content: space-between;
+}
+
+.lahir{
+    display: flex;
+    justify-content: space-between;
+}
+
+.hobi{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+.pendidikan {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    text-align: center;
+    width: 38%;
+    margin-right: 3%;
+}
+
+.foto1{
+    display: flex;
+    justify-content: center;
+    align-items: center; 
+    margin-right: 2%;
+    margin-left: 2%;
+    width: 30%;
+}
+  .text {
+    background-color: #04AA6D;
+    color: white;
+    font-size: 16px;
+    padding: 16px 32px;
+  }
+
+.foto1 img{
+    width: 80%;
+    border-radius: 30%;
+}
+
+.sd{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+
+.sd img{
+    width: 28%;
+    padding-right: 2%;
+    display: flex;
+    justify-content: end;
+}
+
+.smp{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.smp img{
+    width: 24%;
+    padding-right: 6%;
+    display: flex;
+    justify-content: end;
+}
+
+.sma{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.sma img{
+    width: 24%;
+    padding-right: 6%;
+    margin-top: 2%;
+    display: flex;
+    justify-content: end;
+}
+
+.kuliah{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.kuliah img{
+    width: 24%;
+    padding-right: 6%;
+    margin-top: 2%;
+    display: flex;
+    justify-content: end;
+}
+
+a:link{
+    color: brown;
+    text-decoration: none;
+}
+
+a:visited{
+    color: rgb(205, 102, 102);    
+}
+
+a:hover{
+    color: brown;
+}

@@ -1,0 +1,44 @@
+.navbar{
+    background-color: pink;
+    color: BLACK;
+    }
+
+.menari{
+    display: flex;
+    color: rgb(199, 148, 157);
+    justify-content: center;
+}
+
+.image-style-menari {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+.nari2 {
+    display: flex;
+    border-radius: 50px;
+    width: 25%;
+    height: 80%;
+    margin-left: 20px;
+    margin-top: 20px;
+}
+
+.nari4 {
+    display: flex;
+    border-radius: 50px;
+    width: 25%;
+    height: 430px;
+   top: 10px;   
+   margin-top: 20px;
+   object-fit: cover;
+}
+
+.nari11 {
+    display: flex;
+    border-radius: 50px;
+    width: 25%;
+    height: 430px;
+    margin-top: 20px;
+    margin-right: 20px;
+    object-fit: cover;
+} 

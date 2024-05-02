@@ -1,0 +1,35 @@
+.navbar{
+    background-color: pink;
+    color: BLACK;
+    }
+
+.style-bd {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    height: 40%;
+}
+.bd{
+    display: flex;
+    color: rgb(230, 167, 179);
+    justify-content: left;
+    text-align: center;
+    width: 42%;
+    margin: auto;
+}
+
+.bdlogo {
+    display: flex;
+    width: 40%;
+    justify-content: left;
+    margin-right: 5%;
+    object-fit: cover;
+}
+
+.prospekbd{
+    display: flex;
+    flex-direction: column;
+    text-align: left;
+    justify-content: center;
+    font-size: larger;
+}

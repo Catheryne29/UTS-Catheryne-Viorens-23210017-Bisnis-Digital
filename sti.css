@@ -1,0 +1,35 @@
+.navbar{
+    background-color: pink;
+    color: BLACK;
+    }
+
+.style-sti {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    height: 40%;
+}
+.sti{
+    display: flex;
+    color: rgb(230, 167, 179);
+    justify-content: left;
+    text-align: center;
+    width: 42%;
+    margin: auto;
+}
+
+.stilogo {
+    display: flex;
+    width: 40%;
+    justify-content: left;
+    
+}
+
+.prospeksti{
+    display: flex;
+    flex-direction: column;
+    text-align: left;
+    justify-content: center;
+    margin-left: 5%;
+    font-size: larger;
+}

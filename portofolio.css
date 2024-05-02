@@ -1,0 +1,42 @@
+.navbar{
+    background-color: pink;
+    color: BLACK;
+    }
+
+.portofolio{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-style: italic;
+    display: flex;
+    color: rgb(199, 148, 157);
+justify-content: center;
+}
+
+.portofolio-container{
+    display: flex;
+    flex-direction: column;
+}
+
+.row {
+    max-width: 30%;
+}
+.card-container{
+    display: flex;
+    justify-content: space-between;
+    margin: 6% 2%; 
+    
+}
+.card-text a{
+    font-weight: bold;
+    color: pink;
+}
+.yelo{
+    display: flex;
+    flex-direction: column;
+ 
+}
+
+.jastipyelo{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}

@@ -1,0 +1,20 @@
+.navbar{
+    background-color: pink;
+    color: BLACK;
+    }
+
+.badminton{
+    display: flex;
+    color: rgb(199, 148, 157);
+justify-content: center;
+}
+
+.video{
+    width: 60%;
+ border-style: solid;
+ border-width: 15px;
+ border-color: pink;
+ border-radius: 5px;
+ display: flex;
+margin: auto;
+}
